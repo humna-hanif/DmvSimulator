@@ -16,7 +16,7 @@ public class DmvSimulator {
 		for (int i = 1; i>= 1 && i <= userNumber; i++) {
 			System.out.println("Number " + i + " please step up to the counter.");
 		}
-		System.out.println("Umm.. you do not have the required paper work. Come back when you do. Bye.");
+		System.out.println("Umm.. you do not have the required paper work. Come back when you do. Bye. Mwahahaha");
 	}
 
 }
